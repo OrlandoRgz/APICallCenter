@@ -1,0 +1,13 @@
+﻿{
+  "SqlServer": {
+    "Server": "DESKTOP-7O7AQ71\\SQLEXPRESS",
+    "Database": "callcenter2022",
+    "User": "orlandorgz",
+    "Password": "123"
+  },
+  "Root": "https://localhost:7217/api/",
+  "Format": {
+    "Date": "yyyy-MM-dd",
+    "Time": "hh:mm"
+  }
+}
